@@ -1,0 +1,9 @@
+html,
+body {
+   background: skyblue;
+  margin: 0px;
+}
+
+canvas {
+  display: block;
+}
